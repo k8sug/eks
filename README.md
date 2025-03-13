@@ -1,4 +1,4 @@
-#### Follow [@YongkangHe](https://linktr.ee/k8sug)
+#### [Follow @YongkangHe 45,000 followers or connect @kubestrong he 3,000](https://linktr.ee/k8sug)
 
 I just want to build an EKS Cluster to play with the various Security and Data Management capabilities e.g. Security Scans, Backup/Restore, Disaster Recovery and Application Mobility. 
 
@@ -73,9 +73,8 @@ https://cloudcasa.io
 
 # Contributors
 
-#### Follow [@YongkangHe](https://linktr.ee/k8sug) on LinkedIn, Twitter, WhatsApp, etc.
-#### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
-#### Yongkang LinkedIn 45,000 followers | kubestrong LinkedIn 28,000 followers
-#### awstronaut LinkedIn 9,700 followers | K8SUG LinkedIn 14,000 followers
+#### [Follow @YongkangHe 45,000 followers or connect @kubestrong he 3,000](https://linktr.ee/k8sug) on LinkedIn, Twitter, WhatsApp, etc.
+### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
+### kubestrong LinkedIn 28,000 followers | awstronaut 9,700 followers | K8SUG 14,000 followers
 
 
