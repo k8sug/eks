@@ -1,4 +1,4 @@
-#### [Follow @YongkangHe 45,000 followers or connect @kubestrong he 3,000](https://linktr.ee/k8sug)
+#### Follow [@Yongkang He 45,000 followers] or connect [@kubestrong he 3,000](https://linktr.ee/k8sug)
 
 I just want to build an EKS Cluster to play with the various Security and Data Management capabilities e.g. Security Scans, Backup/Restore, Disaster Recovery and Application Mobility. 
 
@@ -68,13 +68,10 @@ vi setenv.sh
 [![IMAGE ALT TEXT HERE](https://pbs.twimg.com/media/FK5rsaeXwAIEmtI?format=jpg&name=small)](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ)
 #### Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
 
-# CloudCasa - Best Kubernetes BaaS
-https://cloudcasa.io 
-
 # Contributors
 
-#### [Follow @YongkangHe 45,000 followers or connect @kubestrong he 3,000](https://linktr.ee/k8sug) on LinkedIn, Twitter, WhatsApp, etc.
-### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
-### kubestrong LinkedIn 28,000 followers | awstronaut 9,700 followers | K8SUG 14,000 followers
+#### Follow [@Yongkang He 45,000 followers] or connect [@kubestrong he 3,000](https://linktr.ee/k8sug)
+##### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
+##### kubestrong LinkedIn 28,000 followers | awstronaut 9,700 followers | K8SUG 14,000 followers
 
 
