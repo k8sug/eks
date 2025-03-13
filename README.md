@@ -1,4 +1,4 @@
-#### Follow [@Yongkang He 45,000 followers] or connect [@kubestrong he 3,000](https://linktr.ee/k8sug)
+#### Follow [@Yongkang He](https://linktr.ee/k8sug) 45,000 followers or connect [@kubestrong he](https://linktr.ee/k8sug) 3,000 followers
 
 I just want to build an EKS Cluster to play with the various Security and Data Management capabilities e.g. Security Scans, Backup/Restore, Disaster Recovery and Application Mobility. 
 
