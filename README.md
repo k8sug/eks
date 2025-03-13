@@ -70,8 +70,8 @@ vi setenv.sh
 
 # Contributors
 
-#### Follow [@Yongkang He 45,000 followers] or connect [@kubestrong he 3,000](https://linktr.ee/k8sug)
-##### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
-##### kubestrong LinkedIn 28,000 followers | awstronaut 9,700 followers | K8SUG 14,000 followers
+#### Follow [@Yongkang He](https://linktr.ee/k8sug) 45,000 followers or connect [@kubestrong he](https://linktr.ee/k8sug) 3,000 followers
+##### [K8SUG meetup](https://linktr.ee/k8sug) 26,000 members | [Kubernetes Discussions](https://linktr.ee/k8sug) 19,000 members
+##### [kubestrong LinkedIn](https://linktr.ee/k8sug) 28,000 followers | [awstronaut](https://linktr.ee/k8sug) 9,700 followers | [K8SUG](https://linktr.ee/k8sug) 14,000 followers
 
 
