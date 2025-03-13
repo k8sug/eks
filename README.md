@@ -1,4 +1,4 @@
-#### Follow [@YongkangHe](https://twitter.com/yongkanghe) on Twitter, Subscribe [K8s Data Management](https://www.youtube.com/channel/UCm-sw1b23K-scoVSCDo30YQ?sub_confirmation=1) Youtube Channel
+#### Follow [@YongkangHe](https://linktr.ee/k8sug)
 
 I just want to build an EKS Cluster to play with the various Security and Data Management capabilities e.g. Security Scans, Backup/Restore, Disaster Recovery and Application Mobility. 
 
@@ -73,7 +73,9 @@ https://cloudcasa.io
 
 # Contributors
 
-#### Follow [Yongkang He](http://yongkang.cloud) on LinkedIn
-#### Join [Kubernetes Data Management](https://www.linkedin.com/groups/13983251) LinkedIn Group
-#### Join [Kubernetes Data Management](http://t.k8sug.com) Telegram Group
-#### Join [Kubernetes Meetup](http://k8sug.com) User Group
+#### Follow [@YongkangHe](https://linktr.ee/k8sug) on LinkedIn, Twitter, WhatsApp, etc.
+#### K8SUG meetup 26,000 members | Kubernetes Discussions 19,000 members
+#### Yongkang LinkedIn 45,000 followers | kubestrong LinkedIn 28,000 followers
+#### awstronaut LinkedIn 9,700 followers | K8SUG LinkedIn 14,000 followers
+
+
